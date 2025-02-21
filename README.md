@@ -10,8 +10,8 @@ Live [here](https://wildifiretracker.netlify.app/)
     "google-map-react": "^2.2.1",
     "lucide-react": "^0.475.0",
     "next": "15.1.7",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7"
   },
