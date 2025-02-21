@@ -1,5 +1,5 @@
 Wildfire Tracker using google-map-react and Nasa EOSNET api
-Live [here]("")
+Live [here]("https://wildifiretracker.netlify.app/")
 
 "dependencies": {
     "@iconify/icons-mdi": "^1.2.48",
